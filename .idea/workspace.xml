@@ -5,24 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb2ec269-9e05-47c4-bce5-768a1581cec1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dmdev-part2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson1/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson1/TestExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson2/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson2/ComputerRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson3/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson3/ComputerRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson4/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson4/ComputerRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson5/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson5/ComputerRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson6/lesson6Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson7/CompositionRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson7/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson7/Ram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson7/Ssd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +24,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -53,18 +45,35 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/Users/artem/IdeaProjects/dmdev-part2/dmdev-part2/src/com/dmdev/lessons/lesson5"
+    "last_opened_file_path": "/Users/artem/IdeaProjects/dmdev-part2/src/com/dmdev/lessons/lesson7"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.dmdev.lessons.lesson7" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/dmdev/lessons/lesson7" />
       <recent name="$PROJECT_DIR$/src/com/dmdev/lessons/lesson5" />
       <recent name="$PROJECT_DIR$/src/com/dmdev/lessons/lesson4" />
       <recent name="$PROJECT_DIR$/src/com/dmdev/lessons" />
       <recent name="$PROJECT_DIR$/src/com/dmdev/lessons/lesson3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.dmdev.lessons.lesson3.ComputerRunner">
+  <component name="RunManager" selected="Application.CompositionRunner">
+    <configuration name="CompositionRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dmdev.lessons.lesson7.CompositionRunner" />
+      <module name="dmdev-part2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dmdev.lessons.lesson7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ComputerRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.dmdev.lessons.lesson2.ComputerRunner" />
       <module name="dmdev-part2" />
@@ -104,8 +113,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.dmdev.lessons.lesson5.ComputerRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dmdev.lessons.lesson5.ComputerRunner" />
+      <module name="dmdev-part2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dmdev.lessons.lesson5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CompositionRunner" />
+        <item itemvalue="Application.com.dmdev.lessons.lesson5.ComputerRunner" />
         <item itemvalue="Application.com.dmdev.lessons.lesson3.ComputerRunner" />
         <item itemvalue="Application.ComputerRunner" />
         <item itemvalue="Application.TestExample" />
