@@ -1,5 +1,5 @@
 package com.dmdev.lessons.lesson8;
-
+//практическое задание 8.2
 
 public class CompositionRunner {
     public static void main(String[] args) {
