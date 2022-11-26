@@ -1,4 +1,4 @@
-package com.dmdev.lessons.lesson7;
+package com.dmdev.lessons.lesson8;
 
 public class Computer {
     private Ram ram;
@@ -9,7 +9,11 @@ public class Computer {
         this.ssd = ssd;
     }
 
+    public void setRam(Ram ram) {
+        this.ram = ram;
+    }
+
     public void printState() {
-        System.out.println("Computer: ram " + ram.getValue() + ", ssd " + ssd.getValue());
+        System.out.println("Computer: ram " + ram.getValue() + ", ssd " + ssd.getValue() );
     }
 }
