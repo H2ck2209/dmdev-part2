@@ -1,4 +1,5 @@
-package com.dmdev.tasks.task1;
+package com.dmdev.lessons.lesson7.practice;
+
 /**
  * Создать класс, описывающий промежуток времени.
  * Сам промежуток времени должен задаваться тремя свойствами:
@@ -9,8 +10,8 @@ package com.dmdev.tasks.task1;
  */
 public class TimeIntervalRunner {
     public static void main(String[] args) {
-    //MyTimeInterval myTimeIntervalRunner = new MyTimeInterval(32, 10, 2);
-    //myTimeIntervalRunner.printData();
+        //MyTimeInterval myTimeIntervalRunner = new MyTimeInterval(32, 10, 2);
+        //myTimeIntervalRunner.printData();
 
         TimeInterval timeInterval = new TimeInterval(30, 2, 1);
         System.out.println(timeInterval.totalSeconds());

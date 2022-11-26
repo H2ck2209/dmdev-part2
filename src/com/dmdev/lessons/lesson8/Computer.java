@@ -14,6 +14,6 @@ public class Computer {
     }
 
     public void printState() {
-        System.out.println("Computer: ram " + ram.getValue() + ", ssd " + ssd.getValue() );
+        System.out.println("Computer: ram " + ram.getValue() + ", ssd " + ssd.getValue());
     }
 }

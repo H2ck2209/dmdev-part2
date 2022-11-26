@@ -1,4 +1,4 @@
-package com.dmdev.tasks.task2;
+package com.dmdev.lessons.lesson8.practice;
 
 public class TimeInterval {
     private int seconds;
@@ -11,8 +11,8 @@ public class TimeInterval {
         this.hours = hours;
     }
 
-    public TimeInterval (int totalSeconds) {
-         this.hours = totalSeconds / 3600;
+    public TimeInterval(int totalSeconds) {
+        this.hours = totalSeconds / 3600;
         this.minutes = totalSeconds % 3600 / 60;
         this.seconds = totalSeconds % 3600 % 60;
     }
@@ -21,7 +21,7 @@ public class TimeInterval {
         return seconds + minutes * 60 + hours * 3600;
     }
 
-    public TimeInterval sum (TimeInterval second) {
+    public TimeInterval sum(TimeInterval second) {
         return new TimeInterval(this.totalSeconds() + second.totalSeconds());
     }
 

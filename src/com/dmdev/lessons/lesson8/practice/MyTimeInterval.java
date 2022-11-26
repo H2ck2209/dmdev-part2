@@ -1,4 +1,4 @@
-package com.dmdev.tasks.task1;
+package com.dmdev.lessons.lesson8.practice;
 
 public class MyTimeInterval {
     private int seconds;
@@ -26,7 +26,7 @@ public class MyTimeInterval {
     public void printData() {
         int fullSeconds = fullSeconds(seconds, minutes, hours);
         System.out.println("Данный промежуток времени составляет " + hours + " часа(-ов), " +
-                minutes + " минут, " + seconds + " секунд.");
+                           minutes + " минут, " + seconds + " секунд.");
         System.out.println("Данный промежуток времени в секундах составляет " + fullSeconds);
     }
 }
