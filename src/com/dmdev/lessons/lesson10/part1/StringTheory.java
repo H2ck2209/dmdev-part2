@@ -2,7 +2,7 @@ package com.dmdev.lessons.lesson10.part1;
 
 import java.util.Locale;
 
-public class StringMethodsTest {
+public class StringTheory {
     /**
      * Часто используемые методы класса String. Deprecated-методы будут поеречеркнутыми - это означает, что в ближайших версиях
      * Java он не будет поддерживаться, поэтому его использование нежелательно.
