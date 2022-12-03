@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb2ec269-9e05-47c4-bce5-768a1581cec1" name="Changes" comment="Added lesson 8.2 Stack and Heap practice">
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson9/StaticRunner.java" afterDir="false" />
+    <list default="true" id="fb2ec269-9e05-47c4-bce5-768a1581cec1" name="Changes" comment="Added lesson 10.2 String practice">
+      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson10/part2/Task6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson7/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson7/Computer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/tasks/task1/TimeInterval.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/tasks/task1/TimeInterval.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,13 +37,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/artem/IdeaProjects/dmdev-part2/src/com/dmdev/tasks/task2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/artem/IdeaProjects/dmdev-part2/src/com/dmdev/tasks/task2&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.dmdev.lessons.lesson7" />
@@ -58,7 +56,7 @@
       <recent name="$PROJECT_DIR$/src/com/dmdev/lessons/lesson4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StaticRunner">
+  <component name="RunManager" selected="Application.Task6">
     <configuration name="CompositionRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.dmdev.lessons.lesson7.CompositionRunner" />
       <module name="dmdev-part2" />
@@ -85,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TimeIntervalRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dmdev.tasks.task1.TimeIntervalRunner" />
+    <configuration name="Task6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dmdev.lessons.lesson10.part2.Task6" />
       <module name="dmdev-part2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dmdev.tasks.task1.*" />
+          <option name="PATTERN" value="com.dmdev.lessons.lesson10.part2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.dmdev.lessons.lesson5.ComputerRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dmdev.lessons.lesson5.ComputerRunner" />
+    <configuration name="TimeIntervalRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dmdev.tasks.task1.TimeIntervalRunner" />
       <module name="dmdev-part2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dmdev.lessons.lesson5.*" />
+          <option name="PATTERN" value="com.dmdev.tasks.task1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task6" />
         <item itemvalue="Application.StaticRunner" />
         <item itemvalue="Application.com.dmdev.tasks.task2.TimeIntervalRunner" />
         <item itemvalue="Application.TimeIntervalRunner" />
         <item itemvalue="Application.CompositionRunner" />
-        <item itemvalue="Application.com.dmdev.lessons.lesson5.ComputerRunner" />
       </list>
     </recent_temporary>
   </component>
