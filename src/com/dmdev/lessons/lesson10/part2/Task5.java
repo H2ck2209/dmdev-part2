@@ -1,6 +1,5 @@
 package com.dmdev.lessons.lesson10.part2;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 
 /**
@@ -17,7 +16,7 @@ public class Task5 {
     }
 
     public static String[] split(String value, int n) {
-        int arraySize = (int) Math.ceil(value.length() / (double) n);//как получаем 4 ?????
+        int arraySize = (int) Math.ceil(value.length() / (double) n);
         String[] result = new String[arraySize];
         int counter = 0;
         for (int i = 0; i < value.length(); i += n) {
