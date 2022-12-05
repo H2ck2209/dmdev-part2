@@ -1,4 +1,4 @@
-package com.dmdev.lessons.lesson10.part2;
+package com.dmdev.lessons.lesson10.part2Practice;
 
 /**
  * Написать функцию, принимающую 2 параметра: строку и слово - и возвращающую true,

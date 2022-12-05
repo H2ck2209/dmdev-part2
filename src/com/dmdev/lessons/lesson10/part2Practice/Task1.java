@@ -1,4 +1,4 @@
-package com.dmdev.lessons.lesson10.part2;
+package com.dmdev.lessons.lesson10.part2Practice;
 
 /**
  * ЗАменить все грустные смайлы :( в строке на веселые :)
