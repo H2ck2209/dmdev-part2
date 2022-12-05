@@ -4,19 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb2ec269-9e05-47c4-bce5-768a1581cec1" name="Changes" comment="Code refactoring">
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson9/practice/examclouds/task4/Countries.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson9/practice/examclouds/task4/Flower.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson9/practice/examclouds/task4/FlowerRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson9/practice/examclouds/task4/FreshStatus.java" afterDir="false" />
+    <list default="true" id="fb2ec269-9e05-47c4-bce5-768a1581cec1" name="Changes" comment="Added task6 StringBuffer StringBuilder">
+      <change afterPath="$PROJECT_DIR$/src/com/codingbat/warmup/Max1020.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codingbat/warmup/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson10/part1/StringMethodsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson10/part1/StringMethodsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson10/part1/StringTheory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson10/part2/Practice.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson10/part2/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson10/part2/Task1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson10/part2/Task5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson10/part2/Task5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson10/part2/Task6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson10/part2/Task6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson9/practice/examclouds/task2/Flower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson9/practice/examclouds/task2/Flower.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,16 +40,16 @@
     <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "full.screen.before.presentation.mode": "true",
-    "last_opened_file_path": "/Users/artem/IdeaProjects/dmdev-part2/src/com/dmdev/tasks/task2",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/artem/IdeaProjects/dmdev-part2/src/com/dmdev/tasks/task2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.dmdev.lessons.lesson7" />
@@ -71,13 +62,13 @@
       <recent name="$PROJECT_DIR$/src/com/dmdev/lessons/lesson4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task6">
-    <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dmdev.lessons.Example" />
+  <component name="RunManager" selected="Application.Solution">
+    <configuration name="Max1020" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codingbat.warmup.Max1020" />
       <module name="dmdev-part2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dmdev.lessons.*" />
+          <option name="PATTERN" value="com.codingbat.warmup.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FlowerRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dmdev.lessons.lesson9.practice.examclouds.task4.FlowerRunner" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codingbat.warmup.Solution" />
       <module name="dmdev-part2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dmdev.lessons.lesson9.practice.examclouds.task4.*" />
+          <option name="PATTERN" value="com.codingbat.warmup.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Max1020" />
         <item itemvalue="Application.Task6" />
         <item itemvalue="Application.Task5" />
         <item itemvalue="Application.StringTheory" />
-        <item itemvalue="Application.FlowerRunner" />
-        <item itemvalue="Application.Example" />
       </list>
     </recent_temporary>
   </component>
@@ -208,6 +199,11 @@
           <url>file://$PROJECT_DIR$/src/com/dmdev/tasks/task2/TimeIntervalRunner.java</url>
           <line>15</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/codingbat/warmup/Solution.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
