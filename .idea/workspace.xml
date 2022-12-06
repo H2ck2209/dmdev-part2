@@ -4,19 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb2ec269-9e05-47c4-bce5-768a1581cec1" name="Changes" comment="Added interesting task">
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson10/examCloudsPractice/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson11/part1/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson11/part1/ComputerRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson11/part1/Ram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson11/part1/Ssd.java" afterDir="false" />
+    <list default="true" id="fb2ec269-9e05-47c4-bce5-768a1581cec1" name="Changes" comment="Added lesson 11.1 and String task № 1 from Examclouds.com">
+      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson12/Laptop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson12/Runner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson10/part2/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson10/part2Practice/Task1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson10/part2/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson10/part2Practice/Task2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson10/part2/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson10/part2Practice/Task3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson10/part2/Task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson10/part2Practice/Task4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson10/part2/Task5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson10/part2Practice/Task5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson10/part2/Task6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson10/part2Practice/Task6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson11/part1/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson11/Computer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson11/part1/ComputerRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson11/ComputerRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson11/part1/Ram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson11/Ram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson11/part1/Ssd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson11/Ssd.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,14 +66,17 @@
       <recent name="$PROJECT_DIR$/src/com/dmdev/lessons/lesson5" />
       <recent name="$PROJECT_DIR$/src/com/dmdev/lessons/lesson4" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.dmdev.lessons.lesson11" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Task1">
+  <component name="RunManager" selected="Application.StringMethodsTest">
     <configuration name="ComputerRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dmdev.lessons.lesson11.part1.ComputerRunner" />
+      <option name="MAIN_CLASS_NAME" value="com.dmdev.lessons.lesson11.ComputerRunner" />
       <module name="dmdev-part2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dmdev.lessons.lesson11.part1.*" />
+          <option name="PATTERN" value="com.dmdev.lessons.lesson11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Max1020" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codingbat.warmup.Max1020" />
+    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dmdev.lessons.lesson12.Runner" />
       <module name="dmdev-part2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codingbat.warmup.*" />
+          <option name="PATTERN" value="com.dmdev.lessons.lesson12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,6 +110,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StringMethodsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dmdev.lessons.lesson10.part1.StringMethodsTest" />
+      <module name="dmdev-part2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dmdev.lessons.lesson10.part1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.dmdev.lessons.lesson10.examCloudsPractice.Task1" />
       <module name="dmdev-part2" />
@@ -125,26 +136,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dmdev.lessons.lesson10.part2Practice.Task6" />
-      <module name="dmdev-part2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.dmdev.lessons.lesson10.part2Practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringMethodsTest" />
+        <item itemvalue="Application.Runner" />
         <item itemvalue="Application.Task1" />
-        <item itemvalue="Application.ComputerRunner" />
+        <item itemvalue="Application.com.dmdev.lessons.lesson11.ComputerRunner" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Max1020" />
-        <item itemvalue="Application.com.dmdev.lessons.lesson10.part2Practice.Task6" />
       </list>
     </recent_temporary>
   </component>
@@ -186,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670270219992</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added lesson 11.1 and String task № 1 from Examclouds.com">
+      <created>1670274981428</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1670274981428</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -208,7 +213,8 @@
     <MESSAGE value="Added lesson 7.2 Classes composition practice" />
     <MESSAGE value="Added lesson 8.2 Stack and Heap practice" />
     <MESSAGE value="Added interesting task" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added interesting task" />
+    <MESSAGE value="Added lesson 11.1 and String task № 1 from Examclouds.com" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added lesson 11.1 and String task № 1 from Examclouds.com" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
