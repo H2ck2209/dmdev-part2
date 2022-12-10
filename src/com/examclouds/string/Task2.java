@@ -1,4 +1,4 @@
-package com.dmdev.lessons.lesson10.examCloudsPractice;
+package com.examclouds.string;
 
 /**
  * Дано два числа, например 3 и 56, необходимо составить следующие строки:

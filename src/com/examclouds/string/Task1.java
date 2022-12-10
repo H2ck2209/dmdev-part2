@@ -1,4 +1,4 @@
-package com.dmdev.lessons.lesson10.examCloudsPractice;
+package com.examclouds.string;
 
 import java.util.Locale;
 

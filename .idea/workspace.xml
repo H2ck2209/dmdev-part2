@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb2ec269-9e05-47c4-bce5-768a1581cec1" name="Changes" comment="Added lesson 12.1">
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson10/examCloudsPractice/Task2.java" afterDir="false" />
+    <list default="true" id="fb2ec269-9e05-47c4-bce5-768a1581cec1" name="Changes" comment="Added task2 examclouds">
+      <change afterPath="$PROJECT_DIR$/src/com/codingbat/warmup/doubleX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/examclouds/string/EverySecond.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson10/examCloudsPractice/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/examclouds/string/Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson10/examCloudsPractice/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/examclouds/string/Task2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,13 +68,13 @@
       <recent name="com.dmdev.lessons.lesson11" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task2">
-    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dmdev.lessons.lesson12.Runner" />
+  <component name="RunManager" selected="Application.EverySecond">
+    <configuration name="EverySecond" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.examclouds.string.EverySecond" />
       <module name="dmdev-part2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dmdev.lessons.lesson12.*" />
+          <option name="PATTERN" value="com.examclouds.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codingbat.warmup.Solution" />
+    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dmdev.lessons.lesson12.Runner" />
       <module name="dmdev-part2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codingbat.warmup.*" />
+          <option name="PATTERN" value="com.dmdev.lessons.lesson12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dmdev.lessons.lesson10.examCloudsPractice.Task1" />
+    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.examclouds.string.Task2" />
       <module name="dmdev-part2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dmdev.lessons.lesson10.examCloudsPractice.*" />
+          <option name="PATTERN" value="com.examclouds.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dmdev.lessons.lesson10.examCloudsPractice.Task2" />
+    <configuration name="doubleX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codingbat.warmup.doubleX" />
       <module name="dmdev-part2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dmdev.lessons.lesson10.examCloudsPractice.*" />
+          <option name="PATTERN" value="com.codingbat.warmup.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task2" />
+        <item itemvalue="Application.EverySecond" />
+        <item itemvalue="Application.doubleX" />
+        <item itemvalue="Application.com.examclouds.string.Task2" />
         <item itemvalue="Application.StringMethodsTest" />
         <item itemvalue="Application.Runner" />
-        <item itemvalue="Application.Task1" />
-        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -193,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670360689050</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Added task2 examclouds">
+      <created>1670447394876</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1670447394876</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -217,7 +227,8 @@
     <MESSAGE value="Added interesting task" />
     <MESSAGE value="Added lesson 11.1 and String task № 1 from Examclouds.com" />
     <MESSAGE value="Added lesson 12.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added lesson 12.1" />
+    <MESSAGE value="Added task2 examclouds" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added task2 examclouds" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
