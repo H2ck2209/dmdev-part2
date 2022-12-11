@@ -18,6 +18,4 @@ public class Solution {
         if (b >= 10 && b <= 20) return b;
         return 0;
     }
-
-    // TODO: 05.12.2022  Почему так работает?
 }

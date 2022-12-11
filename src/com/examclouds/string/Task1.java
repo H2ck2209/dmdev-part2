@@ -35,7 +35,10 @@ public class Task1 {
 
         System.out.println(value.toLowerCase());
 
-        System.out.println(value.substring(value.indexOf("Java"), value.indexOf("!!!"))); // TODO: 06.12.2022 как не хардкодить?
+        var indexJava = value.indexOf("Java");
+        var indexExclamationPoint = value.indexOf("!!!");
+        System.out.println(value.substring(indexJava, indexExclamationPoint));
+
     }
 
     public static void stringPrinter(String value) {

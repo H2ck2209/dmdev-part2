@@ -35,7 +35,8 @@ public class EverySecond {
                     result = start + end;
                 }
             }
-        }return result;
+        }
+        return result;
     }
     static StringBuilder replacer(StringBuilder sb, String target, String substitute) {
         int count = 0;
