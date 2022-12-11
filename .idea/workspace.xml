@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb2ec269-9e05-47c4-bce5-768a1581cec1" name="Changes" comment="Added task2 examclouds">
-      <change afterPath="$PROJECT_DIR$/src/com/codingbat/warmup/doubleX.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/examclouds/string/EverySecond.java" afterDir="false" />
+    <list default="true" id="fb2ec269-9e05-47c4-bce5-768a1581cec1" name="Changes" comment="Added task3 EverySecond from examclouds">
+      <change afterPath="$PROJECT_DIR$/src/com/examclouds/string/everySecond/WordIndexer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson10/examCloudsPractice/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/examclouds/string/Task1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson10/examCloudsPractice/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/examclouds/string/Task2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/examclouds/string/EverySecond.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/examclouds/string/everySecond/EverySecond.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,20 +66,7 @@
       <recent name="com.dmdev.lessons.lesson11" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EverySecond">
-    <configuration name="EverySecond" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.examclouds.string.EverySecond" />
-      <module name="dmdev-part2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.examclouds.string.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.com.examclouds.string.everySecond.EverySecond">
     <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.dmdev.lessons.lesson12.Runner" />
       <module name="dmdev-part2" />
@@ -108,12 +93,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="com.examclouds.string.Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.examclouds.string.Task2" />
       <module name="dmdev-part2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.examclouds.string.*" />
+          <option name="PATTERN" value="com.examclouds.string.everySecond.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.examclouds.string.everySecond.EverySecond" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.examclouds.string.everySecond.EverySecond" />
+      <module name="dmdev-part2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.examclouds.string.everySecond.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,7 +134,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EverySecond" />
+        <item itemvalue="Application.com.examclouds.string.everySecond.EverySecond" />
         <item itemvalue="Application.doubleX" />
         <item itemvalue="Application.com.examclouds.string.Task2" />
         <item itemvalue="Application.StringMethodsTest" />
@@ -203,7 +201,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670447394876</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Added task3 EverySecond from examclouds">
+      <created>1670716605372</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1670716605372</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -228,7 +233,8 @@
     <MESSAGE value="Added lesson 11.1 and String task № 1 from Examclouds.com" />
     <MESSAGE value="Added lesson 12.1" />
     <MESSAGE value="Added task2 examclouds" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added task2 examclouds" />
+    <MESSAGE value="Added task3 EverySecond from examclouds" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added task3 EverySecond from examclouds" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

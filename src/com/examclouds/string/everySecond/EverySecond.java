@@ -1,4 +1,4 @@
-package com.examclouds.string;
+package com.examclouds.string.everySecond;
 
 import java.util.Locale;
 
@@ -37,4 +37,17 @@ public class EverySecond {
             }
         }return result;
     }
+    static StringBuilder replacer(StringBuilder sb, String target, String substitute) {
+        int count = 0;
+        for (int i = 0; i < sb.length() - target.length(); i++) {
+            String tempString = sb.substring(i, i + target.length());
+            if (tempString.equals(target)) {
+                count++;
+                if (count % 2 == 0) {
+                    sb.replace(i, i + target.length(), substitute);
+                }
+            }
+        }return sb;
+    }
+
 }
