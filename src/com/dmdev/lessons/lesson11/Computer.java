@@ -20,4 +20,8 @@ public class Computer {
     public void load() {
         System.out.println("Я загрузился");
     }
+
+    public static void resetSettings(Computer device) {
+        System.out.println("Настройки вашего устройства "+ device +" успешно сброшены.");
+    }
 }

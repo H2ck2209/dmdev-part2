@@ -19,14 +19,4 @@ public class Laptop extends Computer {
     public int getWeight() {
         return weight;
     }
-
-    public String everyNth(String str, int n) {
-        char first = str.charAt(0);
-        String result = "" + first;
-        for (int i = 0; i < str.length() - n; i = i + n){
-            result = result + str.charAt(i);
-        }
-        return result;
-    }
-
 }

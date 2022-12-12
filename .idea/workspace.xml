@@ -4,10 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb2ec269-9e05-47c4-bce5-768a1581cec1" name="Changes" comment="Added task3 EverySecond from examclouds">
-      <change afterPath="$PROJECT_DIR$/src/com/examclouds/string/everySecond/WordIndexer.java" afterDir="false" />
+    <list default="true" id="fb2ec269-9e05-47c4-bce5-768a1581cec1" name="Changes" comment="Trying another solve task3 EverySecond from examclouds">
+      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson12/SmartWatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson12/Smartphone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson12/TV.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/examclouds/string/EverySecond.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/examclouds/string/everySecond/EverySecond.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codingbat/warmup/Max1020.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codingbat/warmup/Max1020.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson11/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson11/Computer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson12/Laptop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson12/Laptop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson12/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson12/Runner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +34,7 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -66,13 +72,13 @@
       <recent name="com.dmdev.lessons.lesson11" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.examclouds.string.everySecond.EverySecond">
-    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dmdev.lessons.lesson12.Runner" />
+  <component name="RunManager" selected="Application.Runner">
+    <configuration name="Max1020" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codingbat.warmup.Max1020" />
       <module name="dmdev-part2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dmdev.lessons.lesson12.*" />
+          <option name="PATTERN" value="com.codingbat.warmup.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringMethodsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dmdev.lessons.lesson10.part1.StringMethodsTest" />
+    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dmdev.lessons.lesson12.Runner" />
       <module name="dmdev-part2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dmdev.lessons.lesson10.part1.*" />
+          <option name="PATTERN" value="com.dmdev.lessons.lesson12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Runner" />
+        <item itemvalue="Application.Max1020" />
         <item itemvalue="Application.com.examclouds.string.everySecond.EverySecond" />
         <item itemvalue="Application.doubleX" />
         <item itemvalue="Application.com.examclouds.string.Task2" />
-        <item itemvalue="Application.StringMethodsTest" />
-        <item itemvalue="Application.Runner" />
       </list>
     </recent_temporary>
   </component>
@@ -208,7 +214,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670716605372</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Trying another solve task3 EverySecond from examclouds">
+      <created>1670749567547</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1670749567547</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -234,7 +247,8 @@
     <MESSAGE value="Added lesson 12.1" />
     <MESSAGE value="Added task2 examclouds" />
     <MESSAGE value="Added task3 EverySecond from examclouds" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added task3 EverySecond from examclouds" />
+    <MESSAGE value="Trying another solve task3 EverySecond from examclouds" />
+    <option name="LAST_COMMIT_MESSAGE" value="Trying another solve task3 EverySecond from examclouds" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -243,6 +257,11 @@
           <url>file://$PROJECT_DIR$/src/com/dmdev/tasks/task2/TimeIntervalRunner.java</url>
           <line>15</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/codingbat/warmup/Max1020.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
