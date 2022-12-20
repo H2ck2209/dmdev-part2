@@ -4,23 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb2ec269-9e05-47c4-bce5-768a1581cec1" name="Changes" comment="add 4th String task">
-      <change afterPath="$PROJECT_DIR$/src/com/codingbat/warmup/StringBits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson12/part2/Laptop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson12/part2/OopRunner2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson12/part3/NewGameGadget.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson12/part3/OOPRunner2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson12/part3/OldGameGadget.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson12/part4/CPU.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson12/part4/NonameCPU.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson12/part4/OopRunner3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson12/part4/amdRyzen.java" afterDir="false" />
+    <list default="true" id="fb2ec269-9e05-47c4-bce5-768a1581cec1" name="Changes" comment="add lessons 12.2, 12.3, 12.4">
+      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson13/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson13/Laptop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson13/Mobile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson13/OopLessonRunner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson12/Laptop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson12/part1/Laptop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson12/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson12/part1/OOPRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson12/SmartWatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson12/part1/SmartWatch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson12/Smartphone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson12/part1/Smartphone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson12/TV.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson12/part1/TV.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson12/part4/CPU.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson12/part4/CPU.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson12/part4/NonameCPU.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson12/part4/NoNameCPU.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson12/part4/OopRunner3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson12/part4/OopRunner3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,8 +71,11 @@
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.dmdev.lessons.lesson11" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.dmdev.lessons.lesson13" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.OopRunner2">
+  <component name="RunManager" selected="Application.OopLessonRunner">
     <configuration name="OOPRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.dmdev.lessons.lesson12.part1.OOPRunner" />
       <module name="dmdev-part2" />
@@ -107,6 +102,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OopLessonRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dmdev.lessons.lesson13.OopLessonRunner" />
+      <module name="dmdev-part2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dmdev.lessons.lesson13.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="OopRunner2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.dmdev.lessons.lesson12.part2.OopRunner2" />
       <module name="dmdev-part2" />
@@ -120,7 +128,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OopRunner3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="com.dmdev.lessons.lesson12.part4.OopRunner3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.dmdev.lessons.lesson12.part4.OopRunner3" />
       <module name="dmdev-part2" />
       <extension name="coverage">
@@ -133,26 +141,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringBits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codingbat.warmup.StringBits" />
-      <module name="dmdev-part2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.codingbat.warmup.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.OopRunner2" />
-        <item itemvalue="Application.com.dmdev.lessons.lesson12.part3.OOPRunner2" />
+        <item itemvalue="Application.OopLessonRunner" />
         <item itemvalue="Application.com.dmdev.lessons.lesson12.part4.OopRunner3" />
-        <item itemvalue="Application.com.dmdev.lessons.lesson12.part1.OOPRunner" />
-        <item itemvalue="Application.StringBits" />
+        <item itemvalue="Application.OopRunner2" />
       </list>
     </recent_temporary>
   </component>
@@ -243,7 +236,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670879467814</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="add lessons 12.2, 12.3, 12.4">
+      <created>1671481350335</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1671481350335</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -272,7 +272,8 @@
     <MESSAGE value="Trying another solve task3 EverySecond from examclouds" />
     <MESSAGE value="add new Computer class objects" />
     <MESSAGE value="add 4th String task" />
-    <option name="LAST_COMMIT_MESSAGE" value="add 4th String task" />
+    <MESSAGE value="add lessons 12.2, 12.3, 12.4" />
+    <option name="LAST_COMMIT_MESSAGE" value="add lessons 12.2, 12.3, 12.4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
