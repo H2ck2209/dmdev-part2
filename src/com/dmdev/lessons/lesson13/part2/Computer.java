@@ -1,4 +1,4 @@
-package com.dmdev.lessons.lesson13;
+package com.dmdev.lessons.lesson13.part2;
 
 import com.dmdev.lessons.lesson7.Ram;
 import com.dmdev.lessons.lesson7.Ssd;

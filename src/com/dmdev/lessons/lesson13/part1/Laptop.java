@@ -1,4 +1,4 @@
- package com.dmdev.lessons.lesson13;
+ package com.dmdev.lessons.lesson13.part1;
 
 import com.dmdev.lessons.lesson7.Ram;
 import com.dmdev.lessons.lesson7.Ssd;
@@ -25,7 +25,7 @@ public class Laptop extends Computer {
      }
 
      @Override
-     public void print() {
+     public void  print() {
          super.print();
          System.out.println("Weight " + weight);
      }
