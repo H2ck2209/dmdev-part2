@@ -14,6 +14,5 @@ public class AutoRunner {
             System.out.println("Battery charged");
         }
         ((ElectroCar) auto).checkBattery();
-        // TODO: 25.12.2022 // почему ошибка возникает только здесь?
     }
 }
