@@ -1,4 +1,4 @@
-package com.dmdev.lessons.lesson10.part2;
+package com.dmdev.lessons.lesson10.part2Practice;
 
 /**
  * Написать функцию, принимающую в качестве параметров имя, фамилию и отчество и возвращающую инициалы в формате Ф.И.О.
