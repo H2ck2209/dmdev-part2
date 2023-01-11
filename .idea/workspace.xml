@@ -4,19 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb2ec269-9e05-47c4-bce5-768a1581cec1" name="Changes" comment="Code refactoring">
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson9/practice/examclouds/task4/Countries.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson9/practice/examclouds/task4/Flower.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson9/practice/examclouds/task4/FlowerRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson9/practice/examclouds/task4/FreshStatus.java" afterDir="false" />
+    <list default="true" id="fb2ec269-9e05-47c4-bce5-768a1581cec1" name="Changes" comment="add lessons 14.1 Interfaces">
+      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson14/part1/example3/Dishwasher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson14/part2/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson14/part2/Laptop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson14/part2/Mobile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson14/part2/OopLessonRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson14/part2/Printable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson14/part2/example1/AdvancedCalculate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson14/part2/example1/CalculateRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson14/part2/example1/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson14/part2/example1/OldCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson14/part2/example1/SimpleCalculate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson14/part2/example1/Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson15/Archer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson15/BattleGround.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson15/Enemy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson15/Hero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson15/Mage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson15/Mortal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson15/Ork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson15/TrainingGround.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson15/Warrior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson15/Zombie.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson10/part1/StringMethodsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson10/part1/StringMethodsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson10/part1/StringTheory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson10/part2/Practice.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson10/part2/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson10/part2/Task1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson10/part2/Task5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson10/part2/Task5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson10/part2/Task6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson10/part2/Task6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson9/practice/examclouds/task2/Flower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson9/practice/examclouds/task2/Flower.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +38,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -34,10 +46,11 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="SPRINT-3" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -55,29 +68,40 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "full.screen.before.presentation.mode": "true",
-    "last_opened_file_path": "/Users/artem/IdeaProjects/dmdev-part2/src/com/dmdev/tasks/task2",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "last_opened_file_path": "/Users/artem/IdeaProjects/dmdev-part2",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.dmdev.lessons.lesson11.part1" />
       <recent name="com.dmdev.lessons.lesson7" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/dmdev/lessons/lesson14/part2" />
+      <recent name="$PROJECT_DIR$/src/com/dmdev/lessons/lesson14" />
+      <recent name="$PROJECT_DIR$/src/com/dmdev/lessons/lesson13/part2" />
       <recent name="$PROJECT_DIR$/src/com/dmdev/tasks/task2" />
       <recent name="$PROJECT_DIR$/src/com/dmdev/lessons/lesson8" />
-      <recent name="$PROJECT_DIR$/src/com/dmdev/lessons/lesson7" />
-      <recent name="$PROJECT_DIR$/src/com/dmdev/lessons/lesson5" />
-      <recent name="$PROJECT_DIR$/src/com/dmdev/lessons/lesson4" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.dmdev.lessons.lesson11" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.dmdev.lessons.lesson15" />
+      <recent name="com.dmdev.lessons.lesson14" />
+      <recent name="com.dmdev.lessons.lesson13.part2" />
+      <recent name="com.dmdev.lessons.lesson13" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task6">
-    <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dmdev.lessons.Example" />
+  <component name="RunManager" selected="Application.com.dmdev.lessons.lesson15.BattleGround">
+    <configuration name="CalculateRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dmdev.lessons.lesson14.part2.example1.CalculateRunner" />
       <module name="dmdev-part2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dmdev.lessons.*" />
+          <option name="PATTERN" value="com.dmdev.lessons.lesson14.part2.example1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FlowerRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dmdev.lessons.lesson9.practice.examclouds.task4.FlowerRunner" />
+    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dmdev.lessons.lesson14.part1.example3.Runner" />
       <module name="dmdev-part2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dmdev.lessons.lesson9.practice.examclouds.task4.*" />
+          <option name="PATTERN" value="com.dmdev.lessons.lesson14.part1.example3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringTheory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dmdev.lessons.lesson10.part1.StringTheory" />
+    <configuration name="com.dmdev.lessons.lesson14.part2.OopLessonRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dmdev.lessons.lesson14.part2.OopLessonRunner" />
       <module name="dmdev-part2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dmdev.lessons.lesson10.part1.*" />
+          <option name="PATTERN" value="com.dmdev.lessons.lesson14.part2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dmdev.lessons.lesson10.part2.Task5" />
+    <configuration name="com.dmdev.lessons.lesson15.BattleGround" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dmdev.lessons.lesson15.BattleGround" />
       <module name="dmdev-part2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dmdev.lessons.lesson10.part2.*" />
+          <option name="PATTERN" value="com.dmdev.lessons.lesson15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +148,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dmdev.lessons.lesson10.part2.Task6" />
+    <configuration name="com.dmdev.lessons.lesson15.TrainingGround" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dmdev.lessons.lesson15.TrainingGround" />
       <module name="dmdev-part2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dmdev.lessons.lesson10.part2.*" />
+          <option name="PATTERN" value="com.dmdev.lessons.lesson15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task6" />
-        <item itemvalue="Application.Task5" />
-        <item itemvalue="Application.StringTheory" />
-        <item itemvalue="Application.FlowerRunner" />
-        <item itemvalue="Application.Example" />
+        <item itemvalue="Application.com.dmdev.lessons.lesson15.BattleGround" />
+        <item itemvalue="Application.com.dmdev.lessons.lesson15.TrainingGround" />
+        <item itemvalue="Application.CalculateRunner" />
+        <item itemvalue="Application.com.dmdev.lessons.lesson14.part2.OopLessonRunner" />
+        <item itemvalue="Application.Runner" />
       </list>
     </recent_temporary>
   </component>
@@ -156,6 +180,9 @@
       <option name="presentableId" value="Default" />
       <updated>1668802770894</updated>
       <workItem from="1670145267671" duration="779000" />
+      <workItem from="1673472621389" duration="47000" />
+      <workItem from="1673472673069" duration="55000" />
+      <workItem from="1673472733940" duration="208000" />
     </task>
     <task id="LOCAL-00001" summary="Added lesson 7.1 composition of classes.">
       <created>1669059000998</created>
@@ -178,7 +205,84 @@
       <option name="project" value="LOCAL" />
       <updated>1669461310452</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added interesting task">
+      <created>1670270219992</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1670270219992</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added lesson 11.1 and String task № 1 from Examclouds.com">
+      <created>1670274981428</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1670274981428</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added lesson 12.1">
+      <created>1670360689050</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1670360689050</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added task2 examclouds">
+      <created>1670447394876</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1670447394876</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added task3 EverySecond from examclouds">
+      <created>1670716605372</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1670716605372</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Trying another solve task3 EverySecond from examclouds">
+      <created>1670749567547</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1670749567547</updated>
+    </task>
+    <task id="LOCAL-00010" summary="add new Computer class objects">
+      <created>1670878224551</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1670878224551</updated>
+    </task>
+    <task id="LOCAL-00011" summary="add 4th String task">
+      <created>1670879467814</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1670879467814</updated>
+    </task>
+    <task id="LOCAL-00012" summary="add lessons 12.2, 12.3, 12.4">
+      <created>1671481350335</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1671481350335</updated>
+    </task>
+    <task id="LOCAL-00013" summary="add lessons 13.1">
+      <created>1671573429352</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1671573429352</updated>
+    </task>
+    <task id="LOCAL-00014" summary="add lessons 14.1 Interfaces">
+      <created>1672174220902</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1672174220902</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -199,7 +303,18 @@
     <MESSAGE value="Added lesson 7.1 composition of classes." />
     <MESSAGE value="Added lesson 7.2 Classes composition practice" />
     <MESSAGE value="Added lesson 8.2 Stack and Heap practice" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added lesson 8.2 Stack and Heap practice" />
+    <MESSAGE value="Added interesting task" />
+    <MESSAGE value="Added lesson 11.1 and String task № 1 from Examclouds.com" />
+    <MESSAGE value="Added lesson 12.1" />
+    <MESSAGE value="Added task2 examclouds" />
+    <MESSAGE value="Added task3 EverySecond from examclouds" />
+    <MESSAGE value="Trying another solve task3 EverySecond from examclouds" />
+    <MESSAGE value="add new Computer class objects" />
+    <MESSAGE value="add 4th String task" />
+    <MESSAGE value="add lessons 12.2, 12.3, 12.4" />
+    <MESSAGE value="add lessons 13.1" />
+    <MESSAGE value="add lessons 14.1 Interfaces" />
+    <option name="LAST_COMMIT_MESSAGE" value="add lessons 14.1 Interfaces" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -208,6 +323,11 @@
           <url>file://$PROJECT_DIR$/src/com/dmdev/tasks/task2/TimeIntervalRunner.java</url>
           <line>15</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/codingbat/warmup/Max1020.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

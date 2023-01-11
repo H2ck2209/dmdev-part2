@@ -1,4 +1,4 @@
-package com.dmdev.lessons.lesson10.part2;
+package com.dmdev.lessons.lesson10.part2Practice;
 
 public class Task6 {
     public static void main(String[] args) {
