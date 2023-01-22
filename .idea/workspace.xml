@@ -4,29 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb2ec269-9e05-47c4-bce5-768a1581cec1" name="Changes" comment="add lessons 14.1 Interfaces">
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson14/part1/example3/Dishwasher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson14/part2/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson14/part2/Laptop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson14/part2/Mobile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson14/part2/OopLessonRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson14/part2/Printable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson14/part2/example1/AdvancedCalculate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson14/part2/example1/CalculateRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson14/part2/example1/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson14/part2/example1/OldCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson14/part2/example1/SimpleCalculate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson14/part2/example1/Sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson15/Archer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson15/BattleGround.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson15/Enemy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson15/Hero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson15/Mage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson15/Mortal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson15/Ork.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson15/TrainingGround.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson15/Warrior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson15/Zombie.java" afterDir="false" />
+    <list default="true" id="fb2ec269-9e05-47c4-bce5-768a1581cec1" name="Changes" comment="Add lesson 17.1 Enums + example">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,13 +15,19 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
         <option value="Enum" />
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Artem Kamelchukov &lt;114873252+h2ck2209@users.noreply.github.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="SPRINT-3" />
@@ -62,46 +46,50 @@
     <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "full.screen.before.presentation.mode": "true",
-    "last_opened_file_path": "/Users/artem/IdeaProjects/dmdev-part2",
-    "settings.editor.selected.configurable": "preferences.keymap",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/artem/IdeaProjects/dmdev-part2/src/com/dmdev/lessons/lesson16&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.dmdev.lessons.lesson11.part1" />
       <recent name="com.dmdev.lessons.lesson7" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/dmdev/lessons/lesson16" />
+      <recent name="$PROJECT_DIR$/src/com/dmdev/lessons" />
+      <recent name="$PROJECT_DIR$/src/com/dmdev/lessons/lesson16_internalAndNestedClasses" />
       <recent name="$PROJECT_DIR$/src/com/dmdev/lessons/lesson14/part2" />
       <recent name="$PROJECT_DIR$/src/com/dmdev/lessons/lesson14" />
-      <recent name="$PROJECT_DIR$/src/com/dmdev/lessons/lesson13/part2" />
-      <recent name="$PROJECT_DIR$/src/com/dmdev/tasks/task2" />
-      <recent name="$PROJECT_DIR$/src/com/dmdev/lessons/lesson8" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.dmdev.lessons.lesson11" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.dmdev.lessons.lesson16_internalAndNestedClasses" />
       <recent name="com.dmdev.lessons.lesson15" />
       <recent name="com.dmdev.lessons.lesson14" />
       <recent name="com.dmdev.lessons.lesson13.part2" />
       <recent name="com.dmdev.lessons.lesson13" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.dmdev.lessons.lesson15.BattleGround">
-    <configuration name="CalculateRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dmdev.lessons.lesson14.part2.example1.CalculateRunner" />
+  <component name="RunManager" selected="Application.EnumRunner">
+    <configuration name="BattleGround" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dmdev.lessons.lesson16.BattleGround" />
       <module name="dmdev-part2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dmdev.lessons.lesson14.part2.example1.*" />
+          <option name="PATTERN" value="com.dmdev.lessons.lesson16.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dmdev.lessons.lesson14.part1.example3.Runner" />
+    <configuration name="Bridge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dmdev.lessons.lesson17.example.Bridge" />
       <module name="dmdev-part2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dmdev.lessons.lesson14.part1.example3.*" />
+          <option name="PATTERN" value="com.dmdev.lessons.lesson17.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.dmdev.lessons.lesson14.part2.OopLessonRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dmdev.lessons.lesson14.part2.OopLessonRunner" />
+    <configuration name="EnumRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dmdev.lessons.lesson17.EnumRunner" />
       <module name="dmdev-part2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dmdev.lessons.lesson14.part2.*" />
+          <option name="PATTERN" value="com.dmdev.lessons.lesson17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.dmdev.lessons.lesson15.BattleGround" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dmdev.lessons.lesson15.BattleGround" />
+    <configuration name="RoosterGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dmdev.lessons.lesson17.example.RoosterGenerator" />
       <module name="dmdev-part2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dmdev.lessons.lesson15.*" />
+          <option name="PATTERN" value="com.dmdev.lessons.lesson17.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.dmdev.lessons.lesson15.TrainingGround" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dmdev.lessons.lesson15.TrainingGround" />
+    <configuration name="metalsRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dmdev.lessons.lesson17.example.metalsRunner" />
       <module name="dmdev-part2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dmdev.lessons.lesson15.*" />
+          <option name="PATTERN" value="com.dmdev.lessons.lesson17.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.com.dmdev.lessons.lesson15.BattleGround" />
-        <item itemvalue="Application.com.dmdev.lessons.lesson15.TrainingGround" />
-        <item itemvalue="Application.CalculateRunner" />
-        <item itemvalue="Application.com.dmdev.lessons.lesson14.part2.OopLessonRunner" />
-        <item itemvalue="Application.Runner" />
+        <item itemvalue="Application.EnumRunner" />
+        <item itemvalue="Application.metalsRunner" />
+        <item itemvalue="Application.Bridge" />
+        <item itemvalue="Application.RoosterGenerator" />
+        <item itemvalue="Application.BattleGround" />
       </list>
     </recent_temporary>
   </component>
@@ -183,6 +171,8 @@
       <workItem from="1673472621389" duration="47000" />
       <workItem from="1673472673069" duration="55000" />
       <workItem from="1673472733940" duration="208000" />
+      <workItem from="1673785472998" duration="5641000" />
+      <workItem from="1673803280900" duration="30899000" />
     </task>
     <task id="LOCAL-00001" summary="Added lesson 7.1 composition of classes.">
       <created>1669059000998</created>
@@ -282,7 +272,28 @@
       <option name="project" value="LOCAL" />
       <updated>1672174220902</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Add lesson 17.1 Enums + example">
+      <created>1674373363675</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1674373363675</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Add lesson 17.1 Enums + example">
+      <created>1674373420615</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1674373420615</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Add lesson 17.1 Enums + example">
+      <created>1674373498059</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1674373498059</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -293,7 +304,13 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="TEXT_FILTER_SETTINGS">
+                <TextFilterSettings>
+                  <option name="MATCH_CASE" value="true" />
+                </TextFilterSettings>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -314,7 +331,9 @@
     <MESSAGE value="add lessons 12.2, 12.3, 12.4" />
     <MESSAGE value="add lessons 13.1" />
     <MESSAGE value="add lessons 14.1 Interfaces" />
-    <option name="LAST_COMMIT_MESSAGE" value="add lessons 14.1 Interfaces" />
+    <MESSAGE value="add practice 15.1" />
+    <MESSAGE value="Add lesson 17.1 Enums + example" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add lesson 17.1 Enums + example" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

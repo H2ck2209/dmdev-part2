@@ -24,5 +24,5 @@ public abstract class Computer implements Printable {
 
     public Ram getRam() {
         return ram;
-    }
+    } 
 }
