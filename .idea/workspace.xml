@@ -30,11 +30,10 @@
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="SPRINT-3" />
+        <entry key="$PROJECT_DIR$" value="SPRINT-5" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -151,10 +150,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EnumRunner" />
-        <item itemvalue="Application.metalsRunner" />
-        <item itemvalue="Application.Bridge" />
         <item itemvalue="Application.RoosterGenerator" />
+        <item itemvalue="Application.metalsRunner" />
+        <item itemvalue="Application.EnumRunner" />
+        <item itemvalue="Application.Bridge" />
         <item itemvalue="Application.BattleGround" />
       </list>
     </recent_temporary>
@@ -172,7 +171,7 @@
       <workItem from="1673472673069" duration="55000" />
       <workItem from="1673472733940" duration="208000" />
       <workItem from="1673785472998" duration="5641000" />
-      <workItem from="1673803280900" duration="30899000" />
+      <workItem from="1673803280900" duration="32056000" />
     </task>
     <task id="LOCAL-00001" summary="Added lesson 7.1 composition of classes.">
       <created>1669059000998</created>
@@ -293,7 +292,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674373498059</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Add lesson 17.1 Enums + example">
+      <created>1674375475748</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1674375475748</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -305,6 +311,17 @@
         <entry key="MAIN">
           <value>
             <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
               <option name="TEXT_FILTER_SETTINGS">
                 <TextFilterSettings>
                   <option name="MATCH_CASE" value="true" />
