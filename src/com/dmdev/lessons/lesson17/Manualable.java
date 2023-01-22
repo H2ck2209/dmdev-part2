@@ -1,5 +1,8 @@
 package com.dmdev.lessons.lesson17;
 
 public interface Manualable {
-    String getManual();
+
+    default String getManual(String name) {
+        return name + " Manual";
+    }
 }
