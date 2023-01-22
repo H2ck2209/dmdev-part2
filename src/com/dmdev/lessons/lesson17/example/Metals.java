@@ -1,18 +1,20 @@
 package com.dmdev.lessons.lesson17.example;
 
+import java.util.Arrays;
+
 public enum Metals {
 
     IRON("Железо", 1538),
-    TITAN ("Титан", 1943),
-    GOLD ("Золото", 1064),
+    TITAN("Титан", 1943),
+    GOLD("Золото", 1064),
     SILVER("Серебро", 962),
     TIN("Олово", 232),
     MERCURY("Ртуть", -39),
     PLUMBUM("Свинец", 328),
     WOLFRAM("Вольфрам", 3422);
 
-    private String name;
-    private int meltingTemperature;
+    private final String name;
+    private final int meltingTemperature;
 
     public static final String[] PRECIOUS = {"Золото", "Серебро", "Платина", "Палладий"};
 
@@ -22,25 +24,20 @@ public enum Metals {
     }
 
 
-    public static void infusible() {
-        System.out.println("Тугоплавкие металлы:");
-        for (Metals metal : Metals.values()) {
-            if (metal.getMeltingTemperature() > 1900) {
-                System.out.println(metal.getName());
-            }
+    public void infusible() {
+        if (this.getMeltingTemperature() > 1500) {
+            System.out.println(this.getName() + " относится к тугоплавким металлам");
+        } else {
+            System.out.println(this.getName() + " НЕ относится к тугоплавким металлам");
         }
-        System.out.println();
     }
 
-    public static void isPrecious() {
-        System.out.println("Драгоценные металлы:");
-        for (Metals metal : Metals.values()) {
-            for (int i = 0; i < PRECIOUS.length; i++) {
-                if (metal.getName().equals(PRECIOUS[i])) {
-                    System.out.println(metal.getName());
-                }
+    public void isPrecious() {
+            if (Arrays.toString(Metals.PRECIOUS).toLowerCase().contains(this.getName().toLowerCase())) {
+                System.out.println(this.getName() + " относится к драгоценным металлам");
+            } else {
+                System.out.println(this.getName() + " НЕ относится к драгоценным металлам");
             }
-        }
     }
 
     public String getName() {
@@ -51,3 +48,4 @@ public enum Metals {
         return meltingTemperature;
     }
 }
+// TODO: 22.01.2023 убрать static у методов, реализовать вывод результата по каждому типу. Удалить SPRINT-5 после работы с enum
