@@ -1,4 +1,4 @@
-package com.dmdev.lessons.lesson18_generics;
+package com.dmdev.lessons.lesson18_generics.part1_needs;
 
 public class List<T> {
     private T[] objects;

@@ -5,103 +5,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb2ec269-9e05-47c4-bce5-768a1581cec1" name="Changes" comment="Added enum methods example">
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson17/example_2/CardinalPoints.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson17/example_2/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18/List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18/ListRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson17_enums/example3/TrafficLight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson17_enums/example3/TrafficLightRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/examclouds/part1_parametrized_types/Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/examclouds/part1_parametrized_types/MatrixRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/examclouds/part1_parametrized_types/TwoGen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/examclouds/part1_parametrized_types/TwoGenRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/examclouds/part2_bounded_types/Average.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/examclouds/part2_bounded_types/AverageRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/part2_theory/WeaponRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/part2_theory/heroes/Archer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/part2_theory/heroes/Hero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/part2_theory/heroes/Mage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/part2_theory/heroes/Warrior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/part2_theory/weapon/Bow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/part2_theory/weapon/MagicWeapon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/part2_theory/weapon/MeleeWeapon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/part2_theory/weapon/RangeWeapon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/part2_theory/weapon/Sword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/part2_theory/weapon/Wand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/part2_theory/weapon/Weapon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/part2_theory/weapon/note.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson1/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson1_introducing_oop/Computer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson1/TestExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson1_introducing_oop/TestExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson10/part1/StringMethodsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson10_string_stringbuilder_stringbuffer/part1/StringMethodsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson10/part2Practice/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson10_string_stringbuilder_stringbuffer/part2Practice/Task1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson10/part2Practice/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson10_string_stringbuilder_stringbuffer/part2Practice/Task2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson10/part2Practice/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson10_string_stringbuilder_stringbuffer/part2Practice/Task3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson10/part2Practice/Task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson10_string_stringbuilder_stringbuffer/part2Practice/Task4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson10/part2Practice/Task5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson10_string_stringbuilder_stringbuffer/part2Practice/Task5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson10/part2Practice/Task6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson10_string_stringbuilder_stringbuffer/part2Practice/Task6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson11/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson11_encapsulation/Computer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson11/ComputerRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson11_encapsulation/ComputerRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson11/Ram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson11_encapsulation/Ram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson11/Ssd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson11_encapsulation/Ssd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson12/part1/Laptop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson12_inheritance/part1_inheritance/Laptop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson12/part1/OOPRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson12_inheritance/part1_inheritance/OOPRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson12/part1/SmartWatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson12_inheritance/part1_inheritance/SmartWatch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson12/part1/Smartphone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson12_inheritance/part1_inheritance/Smartphone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson12/part1/TV.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson12_inheritance/part1_inheritance/TV.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson12/part2/Laptop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson12_inheritance/part2_object_class/Laptop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson12/part2/OopRunner2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson12_inheritance/part2_object_class/OopRunner2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson12/part3/NewGameGadget.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson12_inheritance/part3_object_initialization/NewGameGadget.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson12/part3/OOPRunner2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson12_inheritance/part3_object_initialization/OOPRunner2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson12/part3/OldGameGadget.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson12_inheritance/part3_object_initialization/OldGameGadget.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson12/part4/CPU.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson12_inheritance/part4_abstract_classes/CPU.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson12/part4/NoNameCPU.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson12_inheritance/part4_abstract_classes/NoNameCPU.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson12/part4/OopRunner3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson12_inheritance/part4_abstract_classes/OopRunner3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson12/part4/amdRyzen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson12_inheritance/part4_abstract_classes/amdRyzen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson13/part1/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson13_polymorfhism/part1/Computer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson13/part1/Laptop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson13_polymorfhism/part1/Laptop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson13/part1/Mobile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson13_polymorfhism/part1/Mobile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson13/part1/OopLessonRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson13_polymorfhism/part1/OopLessonRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson13/part2/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson13_polymorfhism/part2/Computer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson13/part2/Laptop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson13_polymorfhism/part2/Laptop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson13/part2/Mobile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson13_polymorfhism/part2/Mobile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson13/part2/OopLessonRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson13_polymorfhism/part2/OopLessonRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson13/part2/example/Auto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson13_polymorfhism/part2/example/Auto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson13/part2/example/AutoRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson13_polymorfhism/part2/example/AutoRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson13/part2/example/ElectroCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson13_polymorfhism/part2/example/ElectroCar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson14/part1/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson14/part1/Computer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson14/part1/Laptop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson14/part1/Laptop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson14/part1/Mobile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson14/part1/Mobile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson14/part1/OopLessonRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson14/part1/OopLessonRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson14/part2/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson14/part2/Computer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson14/part2/Laptop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson14/part2/Laptop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson14/part2/Mobile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson14/part2/Mobile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson14/part2/OopLessonRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson14/part2/OopLessonRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson17/GitTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson17/example/Infusable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson17/example/Metals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson17/example_1/Metals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson17/example/MetalsRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson17/example_1/MetalsRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson2/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson2_classes_and_objects/Computer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson2/ComputerRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson2_classes_and_objects/ComputerRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson3/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson3_constructors/Computer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson3/ComputerRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson3_constructors/ComputerRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson4/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson4_methods_overload/Computer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson4/ComputerRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson4_methods_overload/ComputerRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson5/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson5_access_modificators/Computer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson5/ComputerRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson5_access_modificators/ComputerRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson6/lesson6Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson6_packages_and_imports/lesson6Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson7/CompositionRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson7_class_composure_theory/CompositionRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson7/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson7_class_composure_theory/Computer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson7/Ram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson7_class_composure_theory/Ram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson7/Ssd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson7_class_composure_theory/Ssd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson7/practice/MyTimeInterval.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson7_class_composure_theory/practice/MyTimeInterval.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson7/practice/TimeInterval.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson7_class_composure_theory/practice/TimeInterval.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson7/practice/TimeIntervalRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson7_class_composure_theory/practice/TimeIntervalRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson7/practice/sundayPractice/task1/Box.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson7_class_composure_theory/practice/sundayPractice/task1/Box.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson7/practice/sundayPractice/task1/BoxRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson7_class_composure_theory/practice/sundayPractice/task1/BoxRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson7/practice/sundayPractice/task1/BoxUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson7_class_composure_theory/practice/sundayPractice/task1/BoxUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson7/practice/sundayPractice/task2/Bear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson7_class_composure_theory/practice/sundayPractice/task2/Bear.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson7/practice/sundayPractice/task2/Rabbit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson7_class_composure_theory/practice/sundayPractice/task2/Rabbit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson7/practice/sundayPractice/task2/Tiger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson7_class_composure_theory/practice/sundayPractice/task2/Tiger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson7/practice/sundayPractice/task2/ToyBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson7_class_composure_theory/practice/sundayPractice/task2/ToyBox.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson7/practice/sundayPractice/task2/ToyRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson7_class_composure_theory/practice/sundayPractice/task2/ToyRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson8/CompositionRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson8_stack_and_heap/CompositionRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson8/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson8_stack_and_heap/Computer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson8/Ram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson8_stack_and_heap/Ram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson8/Ssd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson8_stack_and_heap/Ssd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson8/practice/MyTimeInterval.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson8_stack_and_heap/practice/MyTimeInterval.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson8/practice/TimeInterval.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson8_stack_and_heap/practice/TimeInterval.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson8/practice/TimeIntervalRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson8_stack_and_heap/practice/TimeIntervalRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson9/StaticRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson9_static_modificator/StaticRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson9/practice/examclouds/task1/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson9_static_modificator/practice/examclouds/task1/Phone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson9/practice/examclouds/task1/PhoneCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson9_static_modificator/practice/examclouds/task1/PhoneCreator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson9/practice/examclouds/task2/Florist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson9_static_modificator/practice/examclouds/task2/Florist.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson9/practice/examclouds/task2/Flower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson9_static_modificator/practice/examclouds/task2/Flower.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson9/practice/examclouds/task3/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson9_static_modificator/practice/examclouds/task3/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson9/practice/examclouds/task3/CircleCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson9_static_modificator/practice/examclouds/task3/CircleCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson9/practice/examclouds/task4/Countries.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson9_static_modificator/practice/examclouds/task4/Countries.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson9/practice/examclouds/task4/Flower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson9_static_modificator/practice/examclouds/task4/Flower.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson9/practice/examclouds/task4/FlowerRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson9_static_modificator/practice/examclouds/task4/FlowerRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson9/practice/examclouds/task4/FreshStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson9_static_modificator/practice/examclouds/task4/FreshStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson17_enums/example_1/Metals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson17_enums/example1/Metals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson17_enums/example_1/MetalsRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson17_enums/example1/MetalsRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson17_enums/example_2/CardinalPoints.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson17_enums/example2/CardinalPoints.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson17_enums/example_2/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson17_enums/example2/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/part1_needs/List.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/ListRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/part1_needs/ListRunner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,8 +46,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Class" />
-        <option value="Interface" />
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -150,7 +81,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "full.screen.before.presentation.mode": "true",
-    "last_opened_file_path": "/Users/artem/IdeaProjects/dmdev-part2/src/com/dmdev/lessons/lesson16",
+    "last_opened_file_path": "/Users/artem/IdeaProjects/dmdev-part2/src/com/dmdev/lessons/lesson18_generics/part2_theory/heroes",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
@@ -167,11 +98,11 @@
       <recent name="com.dmdev.lessons.lesson7" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/part2_theory/heroes" />
       <recent name="$PROJECT_DIR$/src/com/dmdev/lessons/lesson16" />
       <recent name="$PROJECT_DIR$/src/com/dmdev/lessons" />
       <recent name="$PROJECT_DIR$/src/com/dmdev/lessons/lesson16_internalAndNestedClasses" />
       <recent name="$PROJECT_DIR$/src/com/dmdev/lessons/lesson14/part2" />
-      <recent name="$PROJECT_DIR$/src/com/dmdev/lessons/lesson14" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.dmdev.lessons.lesson11" />
@@ -184,39 +115,26 @@
       <recent name="com.dmdev.lessons.lesson13" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Runner">
+  <component name="RunManager" selected="Application.AverageRunner">
+    <configuration name="AverageRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dmdev.lessons.lesson18_generics.examclouds.part2_bounded_types.AverageRunner" />
+      <module name="dmdev-part2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dmdev.lessons.lesson18_generics.examclouds.part2_bounded_types.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ListRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dmdev.lessons.lesson18_generics.ListRunner" />
+      <option name="MAIN_CLASS_NAME" value="com.dmdev.lessons.lesson18_generics.part1_needs.ListRunner" />
       <module name="dmdev-part2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dmdev.lessons.lesson18_generics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MetalsRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dmdev.lessons.lesson17_enums.example_1.MetalsRunner" />
-      <module name="dmdev-part2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.dmdev.lessons.lesson17_enums.example_2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RoosterGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dmdev.lessons.lesson17.example.RoosterGenerator" />
-      <module name="dmdev-part2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.dmdev.lessons.lesson17_enums.example_2.*" />
+          <option name="PATTERN" value="com.dmdev.lessons.lesson18_generics.part1_needs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -225,11 +143,11 @@
       </method>
     </configuration>
     <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dmdev.lessons.lesson17_enums.example_2.Runner" />
+      <option name="MAIN_CLASS_NAME" value="com.dmdev.lessons.lesson17_enums.example2.Runner" />
       <module name="dmdev-part2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dmdev.lessons.lesson17_enums.example_2.*" />
+          <option name="PATTERN" value="com.dmdev.lessons.lesson17_enums.example2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -237,12 +155,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="metalsRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dmdev.lessons.lesson17.example.metalsRunner" />
+    <configuration name="TrafficLightRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dmdev.lessons.lesson17_enums.example3.TrafficLightRunner" />
       <module name="dmdev-part2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dmdev.lessons.lesson17_enums.example_2.*" />
+          <option name="PATTERN" value="com.dmdev.lessons.lesson17_enums.example3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoGenRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dmdev.lessons.lesson18_generics.examclouds.part1_parametrized_types.TwoGenRunner" />
+      <module name="dmdev-part2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dmdev.lessons.lesson18_generics.examclouds.part1_parametrized_types.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -252,11 +183,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AverageRunner" />
+        <item itemvalue="Application.TwoGenRunner" />
+        <item itemvalue="Application.TrafficLightRunner" />
         <item itemvalue="Application.Runner" />
         <item itemvalue="Application.ListRunner" />
-        <item itemvalue="Application.RoosterGenerator" />
-        <item itemvalue="Application.metalsRunner" />
-        <item itemvalue="Application.MetalsRunner" />
       </list>
     </recent_temporary>
   </component>

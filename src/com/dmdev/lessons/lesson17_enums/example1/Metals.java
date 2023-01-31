@@ -1,4 +1,4 @@
-package com.dmdev.lessons.lesson17_enums.example_1;
+package com.dmdev.lessons.lesson17_enums.example1;
 
 import java.util.Arrays;
 
