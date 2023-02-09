@@ -4,35 +4,56 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb2ec269-9e05-47c4-bce5-768a1581cec1" name="Changes" comment="Added enum methods example">
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson17_enums/example3/TrafficLight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson17_enums/example3/TrafficLightRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/examclouds/part1_parametrized_types/Matrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/examclouds/part1_parametrized_types/MatrixRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/examclouds/part1_parametrized_types/TwoGen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/examclouds/part1_parametrized_types/TwoGenRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/examclouds/part2_bounded_types/Average.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/examclouds/part2_bounded_types/AverageRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/part2_theory/WeaponRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/part2_theory/heroes/Archer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/part2_theory/heroes/Hero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/part2_theory/heroes/Mage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/part2_theory/heroes/Warrior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/part2_theory/weapon/Bow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/part2_theory/weapon/MagicWeapon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/part2_theory/weapon/MeleeWeapon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/part2_theory/weapon/RangeWeapon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/part2_theory/weapon/Sword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/part2_theory/weapon/Wand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/part2_theory/weapon/Weapon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/part2_theory/weapon/note.txt" afterDir="false" />
+    <list default="true" id="fb2ec269-9e05-47c4-bce5-768a1581cec1" name="Changes" comment="added generic lessons + lessons from examclouds">
+      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/part2_and_3_theory/WeaponRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/part2_and_3_theory/weapon/Bow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/part2_and_3_theory/weapon/Sword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/part2_and_3_theory/weapon/Wand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/practice/task1/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/practice/task1/CarWash.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/practice/task1/FreightCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/practice/task1/PassengerCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/practice/task1/WashRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/examclouds/generics/practice/task1/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/examclouds/generics/practice/task1/Comparable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/examclouds/generics/practice/task1/Serializable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/examclouds/generics/practice/task1/TestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/examclouds/generics/practice/task2/MinMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/examclouds/generics/practice/task2/MinMaxRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/examclouds/generics/practice/task3/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/examclouds/generics/practice/task3/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/examclouds/generics/theory/pt2_and_3_bounded_types_and_wildcards/AverageRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/examclouds/generics/theory/pt4_parametrized_methods_and_constructors/GenericConstructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/examclouds/generics/theory/pt4_parametrized_methods_and_constructors/GenericConstructorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/examclouds/generics/theory/pt4_parametrized_methods_and_constructors/GenericMethodDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/examclouds/generics/theory/pt5_parametrized_interfaces/GenericInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/examclouds/generics/theory/pt5_parametrized_interfaces/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/examclouds/generics/theory/pt5_parametrized_interfaces/TestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/examclouds/generics/theory/pt6_parametrized_hierarchy/GenericSub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/examclouds/generics/theory/pt6_parametrized_hierarchy/GenericSuper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/examclouds/generics/theory/pt7_instanceof/InstanceofTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/examclouds/innerClasses/task1/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/examclouds/innerClasses/task1/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson17_enums/example_1/Metals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson17_enums/example1/Metals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson17_enums/example_1/MetalsRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson17_enums/example1/MetalsRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson17_enums/example_2/CardinalPoints.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson17_enums/example2/CardinalPoints.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson17_enums/example_2/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson17_enums/example2/Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/part1_needs/List.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/ListRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/part1_needs/ListRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/examclouds/part1_parametrized_types/Matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/examclouds/generics/theory/pt1_parametrized_types/Matrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/examclouds/part1_parametrized_types/MatrixRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/examclouds/generics/theory/pt1_parametrized_types/MatrixRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/examclouds/part1_parametrized_types/TwoGen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/examclouds/generics/theory/pt1_parametrized_types/TwoGen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/examclouds/part1_parametrized_types/TwoGenRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/examclouds/generics/theory/pt1_parametrized_types/TwoGenRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/examclouds/part2_bounded_types/Average.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/examclouds/generics/theory/pt2_and_3_bounded_types_and_wildcards/Average.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/examclouds/part2_bounded_types/AverageRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/part2_theory/WeaponRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/part2_theory/heroes/Archer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/part2_and_3_theory/heroes/Archer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/part2_theory/heroes/Hero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/part2_and_3_theory/heroes/Hero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/part2_theory/heroes/Mage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/part2_and_3_theory/heroes/Mage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/part2_theory/heroes/Warrior.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/part2_and_3_theory/heroes/Warrior.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/part2_theory/weapon/Bow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/part2_theory/weapon/MagicWeapon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/part2_and_3_theory/weapon/MagicWeapon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/part2_theory/weapon/MeleeWeapon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/part2_and_3_theory/weapon/MeleeWeapon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/part2_theory/weapon/RangeWeapon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/part2_and_3_theory/weapon/RangeWeapon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/part2_theory/weapon/Sword.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/part2_theory/weapon/Wand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/part2_theory/weapon/Weapon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/part2_and_3_theory/weapon/Weapon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/part2_theory/weapon/note.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/part2_and_3_theory/note.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +70,7 @@
         <option value="Enum" />
         <option value="Interface" />
         <option value="Class" />
+        <option value="module-info" />
       </list>
     </option>
   </component>
@@ -75,23 +97,23 @@
     <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "full.screen.before.presentation.mode": "true",
-    "last_opened_file_path": "/Users/artem/IdeaProjects/dmdev-part2/src/com/dmdev/lessons/lesson18_generics/part2_theory/heroes",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "SDKs",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "editor.preferences.import",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/artem/IdeaProjects/dmdev-part2/src/com/dmdev/lessons/lesson18_generics/part2_theory/heroes&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.import&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.dmdev.lessons.lesson11.part1" />
@@ -104,6 +126,9 @@
       <recent name="$PROJECT_DIR$/src/com/dmdev/lessons/lesson16_internalAndNestedClasses" />
       <recent name="$PROJECT_DIR$/src/com/dmdev/lessons/lesson14/part2" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/part2_and_3_theory" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.dmdev.lessons.lesson11" />
     </key>
@@ -115,13 +140,13 @@
       <recent name="com.dmdev.lessons.lesson13" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AverageRunner">
-    <configuration name="AverageRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dmdev.lessons.lesson18_generics.examclouds.part2_bounded_types.AverageRunner" />
+  <component name="RunManager" selected="Application.WashRunner">
+    <configuration name="InstanceofTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.examclouds.generics.examclouds.theory.pt7_instanceof.InstanceofTest" />
       <module name="dmdev-part2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dmdev.lessons.lesson18_generics.examclouds.part2_bounded_types.*" />
+          <option name="PATTERN" value="com.examclouds.generics.examclouds.theory.pt7_instanceof.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,12 +154,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dmdev.lessons.lesson18_generics.part1_needs.ListRunner" />
+    <configuration name="MinMaxRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.examclouds.generics.practice.task2.MinMaxRunner" />
       <module name="dmdev-part2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dmdev.lessons.lesson18_generics.part1_needs.*" />
+          <option name="PATTERN" value="com.examclouds.generics.practice.task2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,12 +167,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dmdev.lessons.lesson17_enums.example2.Runner" />
+    <configuration name="WashRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dmdev.lessons.lesson18_generics.practice.task1.WashRunner" />
       <module name="dmdev-part2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dmdev.lessons.lesson17_enums.example2.*" />
+          <option name="PATTERN" value="com.dmdev.lessons.lesson18_generics.practice.task1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,12 +180,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TrafficLightRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dmdev.lessons.lesson17_enums.example3.TrafficLightRunner" />
+    <configuration name="com.examclouds.generics.examclouds.practice.task1.Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.examclouds.generics.examclouds.practice.task1.Runner" />
       <module name="dmdev-part2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dmdev.lessons.lesson17_enums.example3.*" />
+          <option name="PATTERN" value="com.examclouds.generics.examclouds.practice.task1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -168,12 +193,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoGenRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dmdev.lessons.lesson18_generics.examclouds.part1_parametrized_types.TwoGenRunner" />
+    <configuration name="com.examclouds.generics.practice.task3.Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.examclouds.generics.practice.task3.Runner" />
       <module name="dmdev-part2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dmdev.lessons.lesson18_generics.examclouds.part1_parametrized_types.*" />
+          <option name="PATTERN" value="com.examclouds.generics.practice.task3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -183,11 +208,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AverageRunner" />
-        <item itemvalue="Application.TwoGenRunner" />
-        <item itemvalue="Application.TrafficLightRunner" />
-        <item itemvalue="Application.Runner" />
-        <item itemvalue="Application.ListRunner" />
+        <item itemvalue="Application.WashRunner" />
+        <item itemvalue="Application.com.examclouds.generics.practice.task3.Runner" />
+        <item itemvalue="Application.MinMaxRunner" />
+        <item itemvalue="Application.com.examclouds.generics.examclouds.practice.task1.Runner" />
+        <item itemvalue="Application.InstanceofTest" />
       </list>
     </recent_temporary>
   </component>
@@ -208,6 +233,8 @@
       <workItem from="1674408595622" duration="7778000" />
       <workItem from="1674590102624" duration="5474000" />
       <workItem from="1674760311557" duration="8335000" />
+      <workItem from="1675279160810" duration="18033000" />
+      <workItem from="1675528057104" duration="19234000" />
     </task>
     <task id="LOCAL-00001" summary="Added lesson 7.1 composition of classes.">
       <created>1669059000998</created>
@@ -342,7 +369,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674419769047</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="added generic lessons + lessons from examclouds">
+      <created>1675197821175</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1675197821175</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -351,6 +385,16 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="108e8dd6-421c-4dbd-b9e4-07252e2f18f1">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="3b0902e5-55c1-4288-b2b0-c593fcdffd06">
+          <value>
+            <State />
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State>
@@ -375,6 +419,11 @@
         </entry>
       </map>
     </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="3b0902e5-55c1-4288-b2b0-c593fcdffd06" value="TOOL_WINDOW" />
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added lesson 7.1 composition of classes." />
@@ -395,7 +444,8 @@
     <MESSAGE value="Add lesson 17.1 Enums + example" />
     <MESSAGE value="Added GitTest class" />
     <MESSAGE value="Added enum methods example" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added enum methods example" />
+    <MESSAGE value="added generic lessons + lessons from examclouds" />
+    <option name="LAST_COMMIT_MESSAGE" value="added generic lessons + lessons from examclouds" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -410,6 +460,10 @@
           <line>28</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.StackOverflowError" package="java.lang" />
+          <option name="timeStamp" value="11" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
