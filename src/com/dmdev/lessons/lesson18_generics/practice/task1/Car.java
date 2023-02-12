@@ -1,13 +1,16 @@
 package com.dmdev.lessons.lesson18_generics.practice.task1;
 
-public abstract class Car {
-    private String model;
+import com.dmdev.lessons.lesson18_generics.practice.task1.fuel.Fuel;
 
-    public Car(String model) {
-        this.model = model;
+public class Car<T extends Fuel> extends Vehicle<T> {
+
+    public Car(String brand) {
+        super(brand);
     }
 
-    public String getModel() {
-        return model;
+    @Override
+    public String getBrand() {
+        return super.getBrand();
     }
 }
+

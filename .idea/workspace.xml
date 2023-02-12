@@ -5,55 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb2ec269-9e05-47c4-bce5-768a1581cec1" name="Changes" comment="added generic lessons + lessons from examclouds">
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/part2_and_3_theory/WeaponRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/part2_and_3_theory/weapon/Bow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/part2_and_3_theory/weapon/Sword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/part2_and_3_theory/weapon/Wand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/practice/task1/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/practice/task1/CarWash.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/practice/task1/FreightCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/practice/task1/PassengerCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/practice/task1/WashRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/examclouds/generics/practice/task1/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/examclouds/generics/practice/task1/Comparable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/examclouds/generics/practice/task1/Serializable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/examclouds/generics/practice/task1/TestClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/examclouds/generics/practice/task2/MinMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/examclouds/generics/practice/task2/MinMaxRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/examclouds/generics/practice/task3/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/examclouds/generics/practice/task3/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/examclouds/generics/theory/pt2_and_3_bounded_types_and_wildcards/AverageRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/examclouds/generics/theory/pt4_parametrized_methods_and_constructors/GenericConstructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/examclouds/generics/theory/pt4_parametrized_methods_and_constructors/GenericConstructorDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/examclouds/generics/theory/pt4_parametrized_methods_and_constructors/GenericMethodDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/examclouds/generics/theory/pt5_parametrized_interfaces/GenericInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/examclouds/generics/theory/pt5_parametrized_interfaces/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/examclouds/generics/theory/pt5_parametrized_interfaces/TestClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/examclouds/generics/theory/pt6_parametrized_hierarchy/GenericSub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/examclouds/generics/theory/pt6_parametrized_hierarchy/GenericSuper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/examclouds/generics/theory/pt7_instanceof/InstanceofTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/examclouds/innerClasses/task1/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/examclouds/innerClasses/task1/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/practice/task1/EnergySource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/practice/task1/FuelStationRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/practice/task1/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/practice/task1/fuel/Diezel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/practice/task1/fuel/Electro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/practice/task1/fuel/Fuel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/practice/task1/fuel/Gas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/practice/task1/fuel/Petrol.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/examclouds/part1_parametrized_types/Matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/examclouds/generics/theory/pt1_parametrized_types/Matrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/examclouds/part1_parametrized_types/MatrixRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/examclouds/generics/theory/pt1_parametrized_types/MatrixRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/examclouds/part1_parametrized_types/TwoGen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/examclouds/generics/theory/pt1_parametrized_types/TwoGen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/examclouds/part1_parametrized_types/TwoGenRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/examclouds/generics/theory/pt1_parametrized_types/TwoGenRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/examclouds/part2_bounded_types/Average.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/examclouds/generics/theory/pt2_and_3_bounded_types_and_wildcards/Average.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/examclouds/part2_bounded_types/AverageRunner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/part2_theory/WeaponRunner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/part2_theory/heroes/Archer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/part2_and_3_theory/heroes/Archer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/part2_theory/heroes/Hero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/part2_and_3_theory/heroes/Hero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/part2_theory/heroes/Mage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/part2_and_3_theory/heroes/Mage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/part2_theory/heroes/Warrior.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/part2_and_3_theory/heroes/Warrior.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/part2_theory/weapon/Bow.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/part2_theory/weapon/MagicWeapon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/part2_and_3_theory/weapon/MagicWeapon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/part2_theory/weapon/MeleeWeapon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/part2_and_3_theory/weapon/MeleeWeapon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/part2_theory/weapon/RangeWeapon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/part2_and_3_theory/weapon/RangeWeapon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/part2_theory/weapon/Sword.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/part2_theory/weapon/Wand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/part2_theory/weapon/Weapon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/part2_and_3_theory/weapon/Weapon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/part2_theory/weapon/note.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/part2_and_3_theory/note.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/practice/task1/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/practice/task1/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/practice/task1/CarWash.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/practice/task1/CarWash.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/practice/task1/FreightCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/practice/task1/FreightCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/practice/task1/PassengerCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/practice/task1/PassengerCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/practice/task1/WashRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/practice/task1/WashRunner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,10 +32,10 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Class" />
+        <option value="module-info" />
         <option value="Enum" />
         <option value="Interface" />
         <option value="Class" />
-        <option value="module-info" />
       </list>
     </option>
   </component>
@@ -103,7 +68,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;full.screen.before.presentation.mode&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/artem/IdeaProjects/dmdev-part2/src/com/dmdev/lessons/lesson18_generics/part2_theory/heroes&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/artem/IdeaProjects/dmdev-part2&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
@@ -130,6 +95,9 @@
       <recent name="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/part2_and_3_theory" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.dmdev.lessons.lesson18_generics.practice.task1.fuelable" />
+      <recent name="com.dmdev.lessons.lesson18_generics.tasks.task1" />
+      <recent name="com.dmdev.lessons.lesson18_generics.tasks" />
       <recent name="com.dmdev.lessons.lesson11" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -140,13 +108,13 @@
       <recent name="com.dmdev.lessons.lesson13" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.WashRunner">
-    <configuration name="InstanceofTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.examclouds.generics.examclouds.theory.pt7_instanceof.InstanceofTest" />
+  <component name="RunManager" selected="Application.FuelStationRunner">
+    <configuration name="FuelStationRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dmdev.lessons.lesson18_generics.practice.task1.FuelStationRunner" />
       <module name="dmdev-part2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.examclouds.generics.examclouds.theory.pt7_instanceof.*" />
+          <option name="PATTERN" value="com.dmdev.lessons.lesson18_generics.practice.task1.fuel.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -172,7 +140,7 @@
       <module name="dmdev-part2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dmdev.lessons.lesson18_generics.practice.task1.*" />
+          <option name="PATTERN" value="com.dmdev.lessons.lesson18_generics.practice.task1.fuel.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -208,11 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FuelStationRunner" />
         <item itemvalue="Application.WashRunner" />
         <item itemvalue="Application.com.examclouds.generics.practice.task3.Runner" />
         <item itemvalue="Application.MinMaxRunner" />
         <item itemvalue="Application.com.examclouds.generics.examclouds.practice.task1.Runner" />
-        <item itemvalue="Application.InstanceofTest" />
       </list>
     </recent_temporary>
   </component>
@@ -235,6 +203,8 @@
       <workItem from="1674760311557" duration="8335000" />
       <workItem from="1675279160810" duration="18033000" />
       <workItem from="1675528057104" duration="19234000" />
+      <workItem from="1675976237753" duration="63000" />
+      <workItem from="1676043068862" duration="15671000" />
     </task>
     <task id="LOCAL-00001" summary="Added lesson 7.1 composition of classes.">
       <created>1669059000998</created>

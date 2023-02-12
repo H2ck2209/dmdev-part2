@@ -9,12 +9,13 @@ public class WashRunner {
         truckWash.wash(truck);
 
         CarWash<PassengerCar> carWash = new CarWash<>();
-        carWash.dryClean(sedan);
+        carWash.wash(sedan);
 
         CarWash<Car> universalWash = new CarWash<>();
         universalWash.wash(sedan);
-        universalWash.dryClean(truck);
+        universalWash.wash(truck);
         universalWash.washTrailer(truck);
 //        universalWash.washTrailer(sedan); не скомпилируется из-за неверного параметра
+
     }
 }
