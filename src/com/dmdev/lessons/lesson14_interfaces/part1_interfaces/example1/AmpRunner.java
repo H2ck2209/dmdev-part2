@@ -10,9 +10,11 @@ public class AmpRunner {
 
     public static void cabConnect(Switchable... amp) {
         for (Switchable switchable : amp) {
-            System.out.println("Усилитель " + amp + " подключен к кабинету");
-            System.out.println();
-        }// TODO: 27.12.2022 можно ли заставить метод выводить имя усилителя?
+            if (switchable instanceof Amplifier) {
+                System.out.println("Усилитель " + ((Amplifier) switchable).getName() + " подключен к кабинету");
+                System.out.println();
+            }
+        }
     }
 
 }
