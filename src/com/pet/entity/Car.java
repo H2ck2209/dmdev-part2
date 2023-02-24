@@ -1,4 +1,6 @@
-package com.dmdev.lessons.lesson18_generics.practice.task1;
+package com.pet.entity;
+
+import com.pet.util.EnergySource;
 
 public class Car extends Vehicle {
 
@@ -11,4 +13,3 @@ public class Car extends Vehicle {
         return super.getBrand();
     }
 }
-

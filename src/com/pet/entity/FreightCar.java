@@ -1,4 +1,6 @@
-package com.dmdev.lessons.lesson18_generics.practice.task1;
+package com.pet.entity;
+
+import com.pet.util.EnergySource;
 
 public class FreightCar extends Car {
 

@@ -1,4 +1,4 @@
-package com.dmdev.lessons.lesson18_generics.practice.task1;
+package com.pet.util;
 
 public enum EnergySource {
     PETROL("Бензин"),
@@ -6,7 +6,7 @@ public enum EnergySource {
     DIEZEL("Дизель"),
     ELECTRICTY("Электричество");
 
-    private String name;
+    private final String name;
 
     EnergySource(String name) {
         this.name = name;

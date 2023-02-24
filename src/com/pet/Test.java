@@ -1,19 +1,15 @@
-package com.dmdev.lessons.lesson18_generics.practice.task1;
+package com.pet;
+
+import com.pet.util.CarBrands;
 
 public class Test {
     public static void main(String[] args) {
 
-        String testBrand = "Range Rover";
-        if(isCorrectBrand(testBrand)) {
-            System.out.println("Марка совпадает");
-        }else {
-            System.out.println("такой марки нет");
-        }
     }
 
     public static boolean isCorrectBrand(String brand) {
         boolean result = false;
-        for (PassengerCarBrands passengerCarBrand : PassengerCarBrands.values()) {
+        for (CarBrands passengerCarBrand : CarBrands.values()) {
             if (passengerCarBrand.getName().equalsIgnoreCase(brand)) {
                 brand = passengerCarBrand.getName();
                 result = true;

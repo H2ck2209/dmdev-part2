@@ -1,4 +1,4 @@
-package com.dmdev.lessons.lesson18_generics.practice.task1;
+package com.pet.printers;
 
 public class NotificationPrinter {
     public static void printEnergySources() {
@@ -30,6 +30,4 @@ public class NotificationPrinter {
     public static void printWrongCarNumber() {
         System.out.println("Неверный порядковый номер автомобиля\n");
     }
-
-
 }
