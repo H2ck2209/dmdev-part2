@@ -4,36 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb2ec269-9e05-47c4-bce5-768a1581cec1" name="Changes" comment="added generic example with wildcard">
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/practice/task1/AutoData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/practice/task1/MenuPlan.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/practice/task1/MenuPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/practice/task1/NotificationPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/practice/task1/PassengerCarBrands.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/practice/task1/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/practice/task1/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson14_interfaces/part1_interfaces/example1/AmpRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson14_interfaces/part1_interfaces/example1/AmpRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson17_enums/EnumRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson17_enums/theory/EnumRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson17_enums/Manualable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson17_enums/theory/Manualable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson17_enums/ProcessorType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson17_enums/theory/ProcessorType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson17_enums/Securable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson17_enums/theory/Securable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson17_enums/example3/TrafficLightRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson17_enums/example3/TrafficLightRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/practice/task1/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/practice/task1/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/practice/task1/CarWash.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/practice/task1/CarWash.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/practice/task1/EnergySource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/practice/task1/EnergySource.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/practice/task1/FreightCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/practice/task1/FreightCar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/practice/task1/FuelStationRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/practice/task1/FuelStationRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/practice/task1/PassengerCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/practice/task1/PassengerCar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/practice/task1/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/practice/task1/Vehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/practice/task1/WashRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/practice/task1/WashRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/practice/task1/fuel/Diezel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/practice/task1/fuel/Electro.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/practice/task1/fuel/Fuel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/practice/task1/fuel/Gas.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/practice/task1/fuel/Petrol.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/examclouds/generics/theory/pt7_instanceof/InstanceofTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/examclouds/generics/theory/pt7_instanceof/InstanceofTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="fb2ec269-9e05-47c4-bce5-768a1581cec1" name="Changes" comment="added generic example with wildcard" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,7 +54,7 @@
     "WebServerToolWindowFactoryState": "false",
     "extract.method.default.visibility": "private",
     "full.screen.before.presentation.mode": "true",
-    "last_opened_file_path": "/Users/artem/IdeaProjects/dmdev-part2",
+    "last_opened_file_path": "/Users/artem/IdeaProjects/temp/dmdev-part2",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
@@ -223,6 +194,7 @@
       <workItem from="1676043068862" duration="25305000" />
       <workItem from="1676402674058" duration="32567000" />
       <workItem from="1677001581239" duration="19644000" />
+      <workItem from="1677254044237" duration="668000" />
     </task>
     <task id="LOCAL-00001" summary="Added lesson 7.1 composition of classes.">
       <created>1669059000998</created>
