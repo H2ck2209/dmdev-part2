@@ -1,10 +1,8 @@
-package com.dmdev.lessons.lesson18_generics.practice.task1;
+package com.pet.entity;
 
 public class CarWash {
-    PassengerCar[] passBoxes = new PassengerCar[3];
-    FreightCar[] freightBoxes = new FreightCar[1];
-
-    // Private модификаторы для полей плюс конструктор во всех классах.
+    private PassengerCar[] passBoxes = new PassengerCar[3];
+    private FreightCar[] freightBoxes = new FreightCar[1];
 
     public void wash(Car car) {
         if (car instanceof PassengerCar) {
@@ -28,4 +26,11 @@ public class CarWash {
         }
     }
 
+    public PassengerCar[] getPassBoxes() {
+        return passBoxes;
+    }
+
+    public FreightCar[] getFreightBoxes() {
+        return freightBoxes;
+    }
 }

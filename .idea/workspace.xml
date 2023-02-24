@@ -4,7 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb2ec269-9e05-47c4-bce5-768a1581cec1" name="Changes" comment="added generic example with wildcard" />
+    <list default="true" id="fb2ec269-9e05-47c4-bce5-768a1581cec1" name="Changes" comment="added generic example with wildcard">
+      <change afterPath="$PROJECT_DIR$/src/com/pet/util/CarBrands.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/practice/task1/AutoData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pet/entity/AutoData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/practice/task1/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pet/entity/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/practice/task1/CarWash.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pet/entity/CarWash.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/practice/task1/EnergySource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pet/util/EnergySource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/practice/task1/FreightCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pet/entity/FreightCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/practice/task1/FuelStationRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/practice/task1/MenuPlan.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pet/MenuPlan.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/practice/task1/MenuPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pet/printers/MenuPrinter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/practice/task1/NotificationPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pet/printers/NotificationPrinter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/practice/task1/PassengerCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pet/entity/PassengerCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/practice/task1/PassengerCarBrands.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/practice/task1/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pet/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/practice/task1/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pet/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/practice/task1/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pet/entity/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/practice/task1/WashRunner.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,24 +65,24 @@
     <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "extract.method.default.visibility": "private",
-    "full.screen.before.presentation.mode": "true",
-    "last_opened_file_path": "/Users/artem/IdeaProjects/temp/dmdev-part2",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "SDKs",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "editor.preferences.import",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;extract.method.default.visibility&quot;: &quot;private&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/artem/IdeaProjects/temp/dmdev-part2&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.dmdev.lessons.lesson11.part1" />
@@ -78,6 +96,7 @@
       <recent name="$PROJECT_DIR$/src/com/dmdev/lessons/lesson14/part2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/pet" />
       <recent name="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/part2_and_3_theory" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -95,20 +114,7 @@
       <recent name="com.dmdev.lessons.lesson13" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Runner">
-    <configuration name="AmpRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dmdev.lessons.lesson14_interfaces.part1_interfaces.example1.AmpRunner" />
-      <module name="dmdev-part2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.dmdev.lessons.lesson14_interfaces.part1_interfaces.example1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.com.pet.Runner">
     <configuration name="InstanceofTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.examclouds.generics.theory.pt7_instanceof.InstanceofTest" />
       <module name="dmdev-part2" />
@@ -148,12 +154,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WashRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dmdev.lessons.lesson18_generics.practice.task1.WashRunner" />
+    <configuration name="com.pet.Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pet.Runner" />
       <module name="dmdev-part2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dmdev.lessons.lesson18_generics.practice.task1.fuel.*" />
+          <option name="PATTERN" value="com.pet.entity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.pet.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pet.Test" />
+      <module name="dmdev-part2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pet.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,11 +182,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.pet.Runner" />
+        <item itemvalue="Application.com.pet.Test" />
         <item itemvalue="Application.Runner" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.InstanceofTest" />
-        <item itemvalue="Application.AmpRunner" />
-        <item itemvalue="Application.WashRunner" />
       </list>
     </recent_temporary>
   </component>
@@ -195,6 +214,9 @@
       <workItem from="1676402674058" duration="32567000" />
       <workItem from="1677001581239" duration="19644000" />
       <workItem from="1677254044237" duration="668000" />
+      <workItem from="1677255281482" duration="1659000" />
+      <workItem from="1677256977194" duration="24000" />
+      <workItem from="1677257009368" duration="6942000" />
     </task>
     <task id="LOCAL-00001" summary="Added lesson 7.1 composition of classes.">
       <created>1669059000998</created>

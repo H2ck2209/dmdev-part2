@@ -1,4 +1,4 @@
-package com.dmdev.lessons.lesson18_generics.practice.task1;
+package com.pet.printers;
 
 public class MenuPrinter {
     public static void printMainMenu() {
@@ -45,5 +45,4 @@ public class MenuPrinter {
                 2. Мойка грузовых авто
                 0. Назад""");
     }
-
 }

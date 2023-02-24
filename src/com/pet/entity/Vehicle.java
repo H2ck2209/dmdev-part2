@@ -1,9 +1,11 @@
-package com.dmdev.lessons.lesson18_generics.practice.task1;
+package com.pet.entity;
+
+import com.pet.util.EnergySource;
 
 public class Vehicle {
 
-    String brand;
-    EnergySource energySource;
+    private String brand;
+    private EnergySource energySource;
 
     public Vehicle(String brand, EnergySource energySource) {
         this.brand = brand;
@@ -12,5 +14,9 @@ public class Vehicle {
 
     public String getBrand() {
         return brand;
+    }
+
+    public EnergySource getEnergySource() {
+        return energySource;
     }
 }
