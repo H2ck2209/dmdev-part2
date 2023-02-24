@@ -1,10 +1,8 @@
 package com.dmdev.lessons.lesson18_generics.practice.task1;
 
-import com.dmdev.lessons.lesson18_generics.practice.task1.fuel.Fuel;
-
-public class PassengerCar<T extends Fuel> extends Car<T> {
-    public PassengerCar(String brand) {
-        super(brand);
+public class PassengerCar extends Car {
+    public PassengerCar(String brand, EnergySource energySource) {
+        super(brand, energySource);
     }
 
     @Override

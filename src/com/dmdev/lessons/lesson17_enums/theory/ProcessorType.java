@@ -1,4 +1,4 @@
-package com.dmdev.lessons.lesson17_enums;
+package com.dmdev.lessons.lesson17_enums.theory;
 
 public enum ProcessorType implements Manualable, Securable {
     BIT_32("bit-32") {

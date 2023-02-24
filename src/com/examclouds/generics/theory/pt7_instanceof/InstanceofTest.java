@@ -14,10 +14,5 @@ public class InstanceofTest {
         if (object instanceof GenericSub<Integer>) {
             System.out.println("it works!!!");
         }
-        // TODO: 03.02.2023
-        //  Ошибка компиляции - информация об обобщенном типе недоступна во время выполнения
-        //  * if (object instanceof GenericSub<Integer>) {
-        //  System.out.println("object is instance of GenericSub<Integer>");
-        //  }*/
     }
 }

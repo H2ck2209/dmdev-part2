@@ -1,4 +1,4 @@
-package com.dmdev.lessons.lesson17_enums;
+package com.dmdev.lessons.lesson17_enums.theory;
 
 import java.util.Arrays;
 

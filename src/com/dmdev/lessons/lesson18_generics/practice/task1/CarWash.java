@@ -1,12 +1,31 @@
 package com.dmdev.lessons.lesson18_generics.practice.task1;
 
-public class CarWash<T extends Vehicle>{
+public class CarWash {
+    PassengerCar[] passBoxes = new PassengerCar[3];
+    FreightCar[] freightBoxes = new FreightCar[1];
 
-    public void wash(T car) {
-        System.out.println(car.getBrand() + " is washed");
+    // Private модификаторы для полей плюс конструктор во всех классах.
+
+    public void wash(Car car) {
+        if (car instanceof PassengerCar) {
+            for (int i = 5; i > 0; i--) {
+                printCarWashImitation();
+            }
+        } else {
+            for (int i = 10; i > 0; i--) {
+                printCarWashImitation();
+            }
+        }
+        System.out.println("Мойка автомобиля " + car.getBrand() + " завершена\n");
     }
 
-    public <V extends FreightCar> void washTrailer(V truck) {
-        System.out.println(truck.getBrand() + " trailer is washed");
+    private void printCarWashImitation() {
+        System.out.print(".");
+        try {
+            Thread.sleep(1000);
+        } catch (InterruptedException e) {
+            throw new RuntimeException(e);
+        }
     }
+
 }

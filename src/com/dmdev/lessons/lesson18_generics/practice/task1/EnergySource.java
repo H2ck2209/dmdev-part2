@@ -1,18 +1,18 @@
 package com.dmdev.lessons.lesson18_generics.practice.task1;
 
 public enum EnergySource {
-    PETROL(false),
+    PETROL("Бензин"),
+    GAS("Газ"),
+    DIEZEL("Дизель"),
+    ELECTRICTY("Электричество");
 
-    GAS(true),
-    DIEZEL(true),
-    ELECTRICTY(true);
-    private boolean isEco;
+    private String name;
 
-    EnergySource(boolean isEco) {
-        this.isEco = isEco;
+    EnergySource(String name) {
+        this.name = name;
     }
 
-    public boolean isEco() {
-        return isEco;
+    public String getName() {
+        return name;
     }
 }

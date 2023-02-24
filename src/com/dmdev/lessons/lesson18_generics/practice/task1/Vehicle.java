@@ -1,12 +1,13 @@
 package com.dmdev.lessons.lesson18_generics.practice.task1;
 
-import com.dmdev.lessons.lesson18_generics.practice.task1.fuel.Fuel;
+public class Vehicle {
 
-public class Vehicle<T extends Fuel> {
     String brand;
+    EnergySource energySource;
 
-    public Vehicle(String brand) {
+    public Vehicle(String brand, EnergySource energySource) {
         this.brand = brand;
+        this.energySource = energySource;
     }
 
     public String getBrand() {
