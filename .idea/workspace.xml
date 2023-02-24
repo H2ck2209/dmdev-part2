@@ -4,25 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb2ec269-9e05-47c4-bce5-768a1581cec1" name="Changes" comment="added generic example with wildcard">
-      <change afterPath="$PROJECT_DIR$/src/com/pet/util/CarBrands.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/practice/task1/AutoData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pet/entity/AutoData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/practice/task1/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pet/entity/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/practice/task1/CarWash.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pet/entity/CarWash.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/practice/task1/EnergySource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pet/util/EnergySource.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/practice/task1/FreightCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pet/entity/FreightCar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/practice/task1/FuelStationRunner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/practice/task1/MenuPlan.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pet/MenuPlan.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/practice/task1/MenuPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pet/printers/MenuPrinter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/practice/task1/NotificationPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pet/printers/NotificationPrinter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/practice/task1/PassengerCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pet/entity/PassengerCar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/practice/task1/PassengerCarBrands.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/practice/task1/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pet/Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/practice/task1/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pet/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/practice/task1/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pet/entity/Vehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson18_generics/practice/task1/WashRunner.java" beforeDir="false" />
-    </list>
+    <list default="true" id="fb2ec269-9e05-47c4-bce5-768a1581cec1" name="Changes" comment="added generic example with wildcard" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,7 +44,6 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
