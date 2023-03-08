@@ -175,9 +175,9 @@ public class Runner {
 
             while (true) {
                 brand = scanner.next();
-                String correctBrand = autoData.checkAndCorrectingBrand(brand);
+                brand = autoData.checkAndCorrectingBrand(brand);
 
-                if (correctBrand != null) {
+                if (brand != null) {
                     System.out.println("Марка определена \n");
                     break;
                 } else {

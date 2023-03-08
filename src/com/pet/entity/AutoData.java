@@ -87,10 +87,10 @@ public class AutoData {
                     } else {
                         resultBrand = carBrand.getName();
                     }
+                    break;
                 }
             }
         }
-
         return resultBrand;
     }
 
