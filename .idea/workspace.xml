@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb2ec269-9e05-47c4-bce5-768a1581cec1" name="Changes" comment="added generic example with wildcard">
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dmdev/lessons/lesson19_collections/part2_arraylist/ArrayListRunner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/pet/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pet/Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/pet/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/pet/entity/AutoData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pet/entity/AutoData.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

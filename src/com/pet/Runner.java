@@ -144,6 +144,7 @@ public class Runner {
                         break;
                     } else {
                         autoData.printFreightCarArray();
+
                         while (true) {
                             NotificationPrinter.printPressOneForContinue();
                             int continueCommand = scanner.nextInt();
