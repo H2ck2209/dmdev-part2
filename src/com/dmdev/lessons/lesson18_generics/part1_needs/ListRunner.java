@@ -9,7 +9,5 @@ public class ListRunner {
 
         String element = list.get(1);
         System.out.println(element);
-
-        System.out.println(list.get(2));
     }
 }
