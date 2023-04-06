@@ -13,5 +13,7 @@ public class ArrayListRunner {
         integers.add(4);
         integers.add(5);
         integers.add(6);
+
+        System.out.println(integers);
     }
 }
